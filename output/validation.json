@@ -1,0 +1,38 @@
+[
+  {
+    "year": 2016,
+    "families": 6248,
+    "records": 31240,
+    "excluded_records": 0,
+    "excluded_weight_share": 0.0,
+    "population_estimate": 125981700.68522245,
+    "all_family_median": 131341.159526
+  },
+  {
+    "year": 2019,
+    "families": 5777,
+    "records": 28885,
+    "excluded_records": 0,
+    "excluded_weight_share": 0.0,
+    "population_estimate": 128642430.9648333,
+    "all_family_median": 154149.98119000002
+  },
+  {
+    "year": 2022,
+    "families": 4595,
+    "records": 22975,
+    "excluded_records": 0,
+    "excluded_weight_share": 0.0,
+    "population_estimate": 131306389.38347022,
+    "all_family_median": 210212.585922
+  },
+  {
+    "year": 2025,
+    "families": 4360,
+    "records": 21800,
+    "excluded_records": 0,
+    "excluded_weight_share": 0.0,
+    "population_estimate": 134963690.69014883,
+    "all_family_median": 215916.0
+  }
+]
